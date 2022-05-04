@@ -1,0 +1,17 @@
+@inproceedings{LFER,
+	doi = {10.1109/icbda55095.2022.9760312},
+  
+	url = {https://doi.org/10.1109%2Ficbda55095.2022.9760312},
+  
+	year = 2022,
+	month = {mar},
+  
+	publisher = {{IEEE}
+},
+  
+	author = {Sue Sin Chong},
+  
+	title = {Loss Function Entropy Regularization for Diverse Decision Boundaries},
+  
+	booktitle = {2022 7th International Conference on Big Data Analytics ({ICBDA})}
+}
